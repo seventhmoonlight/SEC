@@ -1,0 +1,21 @@
+window_type,candidate_id,integration_start,integration_end,priority,reason
+long_rt,L1,9.0,23.0,1,broad current long window; covers earliest observed long-window starts and latest ends
+long_rt,L2,10.0,22.0,1,common observed long window; likely reduces edge-area inflation versus 9-23
+long_rt,L3,11.0,23.0,1,observed 11-23 style; keeps late end while excluding earlier baseline/noise
+long_rt,L4,12.0,23.0,1,observed 12-23 style; suitable when early region before 12 min should be excluded
+long_rt,L5,9.0,22.5,2,observed 9-22.5 style; keeps early start but trims late tail
+long_rt,L6,11.167,22.596,2,observed precise long window; middle-width candidate around common manual result
+long_rt,L7,11.469,22.0,2,observed precise long window; trims both early and late edges
+long_rt,L8,13.0,23.055,3,observed late-start window; for cases where early shoulder/region should be excluded
+long_rt,L9,13.5,22.0,3,narrow late-start window; useful only if broad windows inflate area badly
+long_rt,L10,9.0,21.0,3,observed short-end long window; tests sensitivity to late-region exclusion
+short_rt,S1,2.5,7.2,1,broad current short window; covers full short RT method region
+short_rt,S2,2.5,7.0,1,observed 2.5-7 style; slight trim versus current 2.5-7.2
+short_rt,S3,3.0,7.2,1,observed 3-7.2 style; excludes early baseline/noise while keeping late region
+short_rt,S4,3.0,7.0,1,middle short window; balanced candidate between broad and narrow
+short_rt,S5,3.0,6.6,1,observed 3-6.6 style; likely reduces late-region area inflation
+short_rt,S6,3.0,6.0,2,observed 3-6 style; narrow candidate for simple short RT main peaks
+short_rt,S7,2.5,6.5,2,observed 2.5-6.5 style; keeps early start but trims late region
+short_rt,S8,3.1,6.0,3,observed 3.1-6 style; narrowest practical observed window
+short_rt,S9,3.231,6.5,3,observed precise short window; useful for RT around 5.65 in screenshot
+short_rt,S10,3.0,6.5,2,intermediate candidate between 3-6.6 and 3-6
