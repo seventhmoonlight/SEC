@@ -1,0 +1,40 @@
+[
+  {
+    "model": "extra_trees",
+    "cv": "GroupKFold(arw_md5, n_splits=5)",
+    "rows": 173,
+    "features": 59,
+    "peak_width_sec_mae": 5.116883429672445,
+    "peak_width_sec_median_abs_error": 2.7277777777777885,
+    "peak_width_sec_r2": 0.9309197519764465,
+    "peak_width_sec_within_10pct_or_5abs": 0.791907514450867,
+    "detection_threshold_mae": 4.735880700064227,
+    "detection_threshold_median_abs_error": 1.8976388888888875,
+    "detection_threshold_r2": 0.48319717697600095,
+    "detection_threshold_within_10pct_or_5abs": 0.7861271676300579,
+    "minimum_height_mae": 4.699465317919073,
+    "minimum_height_median_abs_error": 2.802222222222227,
+    "minimum_height_r2": 0.6795205830016524,
+    "minimum_height_within_10pct_or_5abs": 0.6936416184971098,
+    "mean_target_mae": 4.850743149218581
+  },
+  {
+    "model": "random_forest",
+    "cv": "GroupKFold(arw_md5, n_splits=5)",
+    "rows": 173,
+    "features": 59,
+    "peak_width_sec_mae": 6.2447008170057305,
+    "peak_width_sec_median_abs_error": 4.071309523809546,
+    "peak_width_sec_r2": 0.900792546416596,
+    "peak_width_sec_within_10pct_or_5abs": 0.7341040462427746,
+    "detection_threshold_mae": 5.119571578362762,
+    "detection_threshold_median_abs_error": 1.984488095238095,
+    "detection_threshold_r2": 0.4323262986443249,
+    "detection_threshold_within_10pct_or_5abs": 0.7225433526011561,
+    "minimum_height_mae": 5.455939116251978,
+    "minimum_height_median_abs_error": 3.1038756613756604,
+    "minimum_height_r2": 0.5873775227393041,
+    "minimum_height_within_10pct_or_5abs": 0.6473988439306358,
+    "mean_target_mae": 5.606737170540157
+  }
+]

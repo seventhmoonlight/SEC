@@ -1,0 +1,10 @@
+sample_dir,arw_path,algorithm,integration_start,integration_end,peak_width_sec,detection_threshold,minimum_height,event_table,label_source
+test2\1,test2\1\test1842.arw,Traditional,0.000,10.000,50.00,0.500,0,"[{""time"":0.000,""type"":""Inhibit Integration"",""stop"":2.986},{""time"":6.222,""type"":""Force Drop Line""},{""time"":6.800,""type"":""Inhibit Integration"",""stop"":10.000}]",user_confirmed_test2_image_1
+test2\2,test2\2\test1866.arw,Traditional,0.000,10.000,50.00,0.500,0,"[{""time"":0.000,""type"":""Inhibit Integration"",""stop"":2.986},{""time"":6.222,""type"":""Force Drop Line""},{""time"":6.800,""type"":""Inhibit Integration"",""stop"":10.000}]",user_confirmed_test2_image_1
+test2\3,test2\3\test1874.arw,Traditional,0.000,10.000,50.00,0.500,0,"[{""time"":0.000,""type"":""Inhibit Integration"",""stop"":2.986},{""time"":6.222,""type"":""Force Drop Line""},{""time"":6.800,""type"":""Inhibit Integration"",""stop"":10.000}]",user_confirmed_test2_image_1
+test2\4,test2\4\Method4911.arw,ApexTrack,3.917,6.544,40.00,0.000,0,[],user_confirmed_test2_image_2
+test2\5,test2\5\Method4922.arw,ApexTrack,3.917,6.544,40.00,0.000,0,[],user_confirmed_test2_image_2
+test2\6,test2\6\Method4942.arw,ApexTrack,3.917,6.544,40.00,0.000,0,[],user_confirmed_test2_image_2
+test2\7,test2\7\Method4602.arw,ApexTrack,3.313,6.500,30.00,10.000,30,"[{""time"":5.000,""type"":""Detect Shoulders""}]",user_confirmed_test2_image_3
+test2\8,test2\8\Method4606.arw,ApexTrack,3.313,6.500,30.00,10.000,30,"[{""time"":5.000,""type"":""Detect Shoulders""}]",user_confirmed_test2_image_3
+test2\9,test2\9\Method4610.arw,ApexTrack,3.313,6.500,30.00,10.000,30,"[{""time"":5.000,""type"":""Detect Shoulders""}]",user_confirmed_test2_image_3

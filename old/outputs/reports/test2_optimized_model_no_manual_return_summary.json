@@ -1,0 +1,15 @@
+{
+  "rows": 9,
+  "priority": "Peak Width > Detection Threshold > Minimum Height; other fields are reported as secondary diagnostics.",
+  "priority_parameter_score": 0.0,
+  "peak_width_mae": 0.0,
+  "peak_width_within_10sec": 1.0,
+  "threshold_mae": 0.0,
+  "threshold_within_5": 1.0,
+  "min_height_mae": 0.0,
+  "min_height_within_10": 1.0,
+  "algorithm_errors": 3,
+  "event_table_errors": 6,
+  "start_mae": 1.368,
+  "end_mae": 1.185333
+}

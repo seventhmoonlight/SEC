@@ -1,0 +1,52 @@
+{
+  "meaning": "This benchmark excludes test2 and evaluates on historical data with group splits, so it is closer to real unknown-sample behavior than test2 replay.",
+  "rows": 78,
+  "manual_labels_included": false,
+  "best_overall": {
+    "model": "extra_trees_combo_classifier",
+    "output_mode": "raw",
+    "split": "arw_md5",
+    "rows": 78,
+    "peak_width_mae": 3.846154,
+    "peak_width_within_5sec": 0.820513,
+    "peak_width_within_10sec": 0.910256,
+    "threshold_mae": 2.49359,
+    "threshold_within_2": 0.769231,
+    "threshold_within_5": 0.807692,
+    "core_combo_exact": 0.717949,
+    "priority_score": 0.883333,
+    "feature_set": "arw_summary"
+  },
+  "best_by_split": {
+    "arw_md5": {
+      "model": "extra_trees_combo_classifier",
+      "output_mode": "raw",
+      "split": "arw_md5",
+      "rows": 78,
+      "peak_width_mae": 3.846154,
+      "peak_width_within_5sec": 0.820513,
+      "peak_width_within_10sec": 0.910256,
+      "threshold_mae": 2.49359,
+      "threshold_within_2": 0.769231,
+      "threshold_within_5": 0.807692,
+      "core_combo_exact": 0.717949,
+      "priority_score": 0.883333,
+      "feature_set": "arw_summary"
+    },
+    "family_group": {
+      "model": "extra_trees_regressor",
+      "output_mode": "raw",
+      "split": "family_group",
+      "rows": 78,
+      "peak_width_mae": 7.307464,
+      "peak_width_within_5sec": 0.461538,
+      "peak_width_within_10sec": 0.782051,
+      "threshold_mae": 5.104034,
+      "threshold_within_2": 0.269231,
+      "threshold_within_5": 0.615385,
+      "core_combo_exact": 0.0,
+      "priority_score": 1.751553,
+      "feature_set": "arw_summary"
+    }
+  }
+}

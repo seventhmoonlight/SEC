@@ -1,0 +1,10 @@
+﻿input,algorithm_ok,start_err,end_err,peak_width_err,threshold_err,min_height_err,event_table_ok
+test2\1,False,3.5,3.4,5.361,11.5253,23.3839,False
+test2\2,False,3.5,3.4,5.489,10.8722,19.381,False
+test2\3,False,3.5,3.4,4.606,11.0056,15.1536,False
+test2\4,True,0.417,0.056,2.733,11.76,27.4169,True
+test2\5,True,0.417,0.056,5.661,12.4078,23.3932,True
+test2\6,True,0.417,0.056,6.094,12.1869,25.8699,True
+test2\7,True,0.187,0.1,2.722,1.4742,9.4628,False
+test2\8,True,0.187,0.1,0.161,0.085,1.9387,False
+test2\9,True,0.187,0.1,0.333,0.3642,2.8485,False

@@ -1,0 +1,10 @@
+input,Algorithm,Integration Start,Integration End,Peak Width,Detection Threshold,Minimum Height,Event Table
+test2\1,Traditional,0.000,10.000,50.00,0.500,0,"[{""time"":0.000,""type"":""Inhibit Integration"",""stop"":2.986},{""time"":6.222,""type"":""Force Drop Line""},{""time"":6.800,""type"":""Inhibit Integration"",""stop"":10.000}]"
+test2\2,Traditional,0.000,10.000,50.00,0.500,0,"[{""time"":0.000,""type"":""Inhibit Integration"",""stop"":2.986},{""time"":6.222,""type"":""Force Drop Line""},{""time"":6.800,""type"":""Inhibit Integration"",""stop"":10.000}]"
+test2\3,Traditional,0.000,10.000,50.00,0.500,0,"[{""time"":0.000,""type"":""Inhibit Integration"",""stop"":2.986},{""time"":6.222,""type"":""Force Drop Line""},{""time"":6.800,""type"":""Inhibit Integration"",""stop"":10.000}]"
+test2\4,ApexTrack,3.917,6.544,40.00,0.000,0,[]
+test2\5,ApexTrack,3.917,6.544,40.00,0.000,0,[]
+test2\6,ApexTrack,3.917,6.544,40.00,0.000,0,[]
+test2\7,ApexTrack,3.313,6.500,30.00,10.000,30,"[{""time"":5.000,""type"":""Detect Shoulders""}]"
+test2\8,ApexTrack,3.313,6.500,30.00,10.000,30,"[{""time"":5.000,""type"":""Detect Shoulders""}]"
+test2\9,ApexTrack,3.313,6.500,30.00,10.000,30,"[{""time"":5.000,""type"":""Detect Shoulders""}]"

@@ -1,0 +1,8 @@
+{
+  "sample_dirs": 113,
+  "ok_rows": 106,
+  "bad_arw_rows": 6,
+  "missing_parameter_png_rows": 1,
+  "duplicate_arw_groups": 18,
+  "duplicate_arw_rows": 41
+}

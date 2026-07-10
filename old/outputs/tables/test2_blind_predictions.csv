@@ -1,0 +1,10 @@
+﻿input,arw_used,Algorithm,Integration Start,Integration End,Peak Width,Detection Threshold,Minimum Height,Minimum Height Probability,Event Table,model_note
+test2\1,test2\1\test1842.arw,ApexTrack,3.5,6.6,44.639,12.0253,23.3839,0.6367,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\2,test2\2\test1866.arw,ApexTrack,3.5,6.6,44.511,11.3722,19.381,0.6188,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\3,test2\3\test1874.arw,ApexTrack,3.5,6.6,45.394,11.5056,15.1536,0.6202,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\4,test2\4\Method4911.arw,ApexTrack,3.5,6.6,42.733,11.76,27.4169,0.6237,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\5,test2\5\Method4922.arw,ApexTrack,3.5,6.6,45.661,12.4078,23.3932,0.6087,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\6,test2\6\Method4942.arw,ApexTrack,3.5,6.6,46.094,12.1869,25.8699,0.6058,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\7,test2\7\Method4602.arw,ApexTrack,3.5,6.6,32.722,11.4742,20.5372,0.5042,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\8,test2\8\Method4606.arw,ApexTrack,3.5,6.6,30.161,9.915,28.0613,0.9404,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).
+test2\9,test2\9\Method4610.arw,ApexTrack,3.5,6.6,30.333,9.6358,27.1515,0.9292,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model_no_manual.pkl).

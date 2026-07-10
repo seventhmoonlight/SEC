@@ -1,0 +1,7 @@
+{
+  "rows": 24,
+  "peak_width_mae": 1.4128,
+  "threshold_mae": 1.0049,
+  "min_height_mae": 2.2582,
+  "threshold_err_gt_5": 1
+}

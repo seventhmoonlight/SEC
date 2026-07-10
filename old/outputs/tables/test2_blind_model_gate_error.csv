@@ -1,0 +1,10 @@
+﻿input,arw_used,true_peak_width,pred_peak_width,peak_width_abs_err,peak_width_pass,true_threshold,pred_threshold,threshold_abs_err,threshold_pass,true_minimum_height,pred_minimum_height,minimum_height_abs_err,minimum_height_pass,all_params_pass,risk_level,auto_apply,auto_apply_correct,prediction_warnings,risk_reasons
+test2\1,test2\1\test1842.arw,50.0,50.125,0.125,True,0.5,0.5583,0.0583,True,0.0,0.0,0.0,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\2,test2\2\test1866.arw,50.0,49.987,0.013,True,0.5,0.7031,0.2031,True,0.0,0.0,0.0,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\3,test2\3\test1874.arw,50.0,49.833,0.167,True,0.5,0.5896,0.0896,True,0.0,0.2107,0.2107,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\4,test2\4\Method4911.arw,40.0,39.779,0.221,True,0.0,0.3469,0.3469,True,0.0,0.7903,0.7903,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\5,test2\5\Method4922.arw,40.0,41.754,1.754,True,0.0,0.0256,0.0256,True,0.0,0.0002,0.0002,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\6,test2\6\Method4942.arw,40.0,40.437,0.437,True,0.0,0.3269,0.3269,True,0.0,0.0,0.0,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\7,test2\7\Method4602.arw,30.0,29.675,0.325,True,10.0,9.5083,0.4917,True,30.0,29.9687,0.0313,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\8,test2\8\Method4606.arw,30.0,30.396,0.396,True,10.0,9.6646,0.3354,True,30.0,29.8493,0.1507,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"
+test2\9,test2\9\Method4610.arw,30.0,30.096,0.096,True,10.0,9.8292,0.1708,True,30.0,30.0004,0.0004,True,True,medium,False,False,,"[""training set has only 114 unique ARW signals.""]"

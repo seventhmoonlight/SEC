@@ -1,0 +1,61 @@
+{
+  "best_regression_model": "extra_trees",
+  "cv": [
+    {
+      "model": "knn",
+      "peak_width_mae": 7.799668407211982,
+      "threshold_mae": 4.838507890021981,
+      "within_pw_10sec": 0.6794871794871795,
+      "within_threshold_5": 0.6410256410256411,
+      "score": 0.6788424991824977
+    },
+    {
+      "model": "extra_trees",
+      "peak_width_mae": 5.065028490028489,
+      "threshold_mae": 4.277353988603989,
+      "within_pw_10sec": 0.8461538461538461,
+      "within_threshold_5": 0.7307692307692307,
+      "score": 0.5543611111111111
+    },
+    {
+      "model": "random_forest",
+      "peak_width_mae": 6.535998338081669,
+      "threshold_mae": 4.535057827974494,
+      "within_pw_10sec": 0.8076923076923077,
+      "within_threshold_5": 0.6538461538461539,
+      "score": 0.6169057412494912
+    },
+    {
+      "model": "extra_trees_classifier_discrete",
+      "peak_width_mae": 5.769230769230769,
+      "threshold_mae": 4.25,
+      "within_pw_10sec": 0.8333333333333334,
+      "within_threshold_5": 0.6923076923076923,
+      "score": 0.5692307692307692
+    }
+  ],
+  "training_rows_unique": 78,
+  "manual_labels_included": false,
+  "target_distribution": {
+    "peak_width": {
+      "30.0": 22,
+      "40.0": 18,
+      "50.0": 5,
+      "70.0": 12,
+      "80.0": 14,
+      "100.0": 7
+    },
+    "threshold": {
+      "0.0": 6,
+      "1.0": 1,
+      "1.5": 2,
+      "5.0": 1,
+      "10.0": 30,
+      "15.0": 20,
+      "18.0": 3,
+      "20.0": 10,
+      "30.0": 5
+    },
+    "minimum_height_non_null": 39
+  }
+}

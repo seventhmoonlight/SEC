@@ -1,0 +1,7 @@
+{
+  "rows": 173,
+  "peak_width_mae_training": 0.5203757225433518,
+  "threshold_mae_training": 1.167947327864205,
+  "minimum_height_mae_training": 0.35854837158145586,
+  "threshold_large_error_rows": 11
+}

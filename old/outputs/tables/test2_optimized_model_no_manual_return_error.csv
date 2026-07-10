@@ -1,0 +1,10 @@
+﻿input,algorithm_ok,start_err,end_err,peak_width_err,threshold_err,min_height_err,event_table_ok
+test2\1,False,3.5,3.4,0.0,0.0,0.0,False
+test2\2,False,3.5,3.4,0.0,0.0,0.0,False
+test2\3,False,3.5,3.4,0.0,0.0,0.0,False
+test2\4,True,0.417,0.056,0.0,0.0,0.0,True
+test2\5,True,0.417,0.056,0.0,0.0,0.0,True
+test2\6,True,0.417,0.056,0.0,0.0,0.0,True
+test2\7,True,0.187,0.1,0.0,0.0,0.0,False
+test2\8,True,0.187,0.1,0.0,0.0,0.0,False
+test2\9,True,0.187,0.1,0.0,0.0,0.0,False

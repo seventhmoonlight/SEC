@@ -1,0 +1,22 @@
+{
+  "rows": 9,
+  "evaluation_type": "blind_test_holdout",
+  "pass_limits": {
+    "peak_width_abs_err_max": 10.0,
+    "threshold_abs_err_max": 5.0,
+    "minimum_height_abs_err_max": 5.0
+  },
+  "peak_width_mae": 0.392667,
+  "peak_width_pass_rate": 1.0,
+  "threshold_mae": 0.227589,
+  "threshold_pass_rate": 1.0,
+  "minimum_height_mae": 0.131511,
+  "minimum_height_pass_rate": 1.0,
+  "all_params_pass_rate": 1.0,
+  "auto_apply_rate": 0.0,
+  "auto_apply_rows": 0,
+  "auto_apply_precision": 0.0,
+  "risk_level_counts": {
+    "medium": 9
+  }
+}

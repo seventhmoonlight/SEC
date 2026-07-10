@@ -1,0 +1,10 @@
+﻿input,arw_used,Algorithm,Integration Start,Integration End,Peak Width,Detection Threshold,Minimum Height,Minimum Height Probability,Event Table,model_note
+test2\1,test2\1\test1842.arw,ApexTrack,3.5,6.6,50.0,0.5,0.0,0.9679,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\2,test2\2\test1866.arw,ApexTrack,3.5,6.6,50.0,0.5,0.0,0.9446,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\3,test2\3\test1874.arw,ApexTrack,3.5,6.6,50.0,0.5,0.0,0.9396,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\4,test2\4\Method4911.arw,ApexTrack,3.5,6.6,40.0,0.0,0.0,0.9156,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\5,test2\5\Method4922.arw,ApexTrack,3.5,6.6,40.0,0.0,0.0,0.9199,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\6,test2\6\Method4942.arw,ApexTrack,3.5,6.6,40.0,0.0,0.0,0.8962,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\7,test2\7\Method4602.arw,ApexTrack,3.5,6.6,30.0,10.0,30.0,0.6523,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\8,test2\8\Method4606.arw,ApexTrack,3.5,6.6,30.0,10.0,30.0,0.9873,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.
+test2\9,test2\9\Method4610.arw,ApexTrack,3.5,6.6,30.0,10.0,30.0,0.9638,[],Current baseline uses continuous regression from parsed .arw signal (outputs\models\sec_parameter_model.pkl); parameter snapping=on.

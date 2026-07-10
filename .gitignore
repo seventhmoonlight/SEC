@@ -1,15 +1,3 @@
-# Local/raw chromatogram data and reviewed training exports
-data/
-test2/
-extra/
-old/
-DA/
-
-# Generated model artifacts and plots
-outputs/models/
-outputs/plots/
-outputs/tables/sec_parameter_cv_predictions.csv
-
 # Python/runtime cache
 __pycache__/
 *.py[cod]
@@ -18,11 +6,4 @@ __pycache__/
 # Local agent/editor metadata
 .agents/
 .codex/
-
-# Large or proprietary scientific data files
-*.arw
-*.cdf
-*.rpt
-*.pdf
-*.pkl
 
